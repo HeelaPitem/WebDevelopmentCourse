@@ -1,0 +1,131 @@
+body 
+{
+    direction:rtl;
+}
+
+#container {width:960px; margin: 0 auto;}
+
+#container {background: url(../images/menu.jpg) no-repeat;
+    background-size: 1000px 740px;}
+
+h1 {font-size: 30pt;
+font-family: Verdana;
+color: #B57507;
+padding-top: 195px;
+padding-bottom: 30px;
+padding-right: 140px;
+text-align: right;}
+
+h2 {font-size: 14pt;
+font-family: Verdana;
+color: #CC0018;
+text-decoration: underline;
+text-align: right;
+padding-right: 90px;}
+
+h3 {font-size: 11pt;
+    font-family: Verdana;
+    color: #c67b09;
+    text-align: right;
+    padding-right: 170px;
+    padding-top: 20px;}
+
+p {font-size: 14pt;
+    font-family: Verdana;
+    color: #a56606;
+    padding: 7px 0px;
+    text-align: right;
+    padding-right: 90px;}
+
+ul {list-style-type: none;}
+
+li {font-size: 14pt;
+    font-family: Verdana;
+    color: #a56606;
+    padding: 3px 0px;
+    text-align: justify;
+    padding-right: 90px;}
+
+
+#Facebook {display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: url(../images/facebook.png) no-repeat center;
+    background-size: 40px 40px;
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;
+    margin-bottom: 20px;
+    margin-bottom: 150px;}
+    
+#Facebook:hover {display: inline-block;
+    width: 60px;
+    height: 60px;
+    background: url(../images/facebook.png) no-repeat center;
+    background-size: 60px 60px;}
+
+
+#Instagram {display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: url(../images/instagram.png) no-repeat center;
+    background-size: 40px 40px;
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;
+    margin-bottom: 20px;
+    margin-bottom: 150px;}
+
+#Instagram:hover {display: inline-block;
+    width: 60px;
+    height: 60px;
+    background: url(../images/instagram.png) no-repeat center;
+    background-size: 60px 60px;}
+
+
+#Gmail {display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: url(../images/gmail.png) no-repeat center;
+    background-size: 40px 40px;
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;
+    margin-bottom: 20px;
+    margin-bottom: 150px;}
+
+#Gmail:hover {display: inline-block;
+    width: 60px;
+    height: 60px;
+    background: url(../images/gmail.png) no-repeat center;
+    background-size: 60px 60px;}
+
+
+#LinkedIn {display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: url(../images/linkedin.png) no-repeat center;
+    background-size: 40px 40px;
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;
+    margin-bottom: 150px;}
+
+#LinkedIn:hover {display: inline-block;
+    width: 60px;
+    height: 60px;
+    background: url(../images/linkedin.png) no-repeat center;
+    background-size: 60px 60px;}
+
+a:link {text-decoration: none;}
+
+#kesher {margin-right: 20px;
+padding: 10px 127px;}
