@@ -1,0 +1,284 @@
+body 
+{
+    direction:rtl;
+}
+
+#container {width:960px; margin: 0 auto;}
+
+#container {background: url(../images/menu.jpg) no-repeat;
+    background-size: 1000px 740px;}
+
+h1 {font-size: 30pt;
+font-family: Verdana;
+color: #B57507;
+padding-top: 195px;
+padding-bottom: 30px;
+padding-right: 140px;
+text-align: right;}
+
+h1:hover {font-size: 30pt;
+font-family: Verdana;
+color: #B57507;
+padding-top: 195px;
+padding-bottom: 30px;
+padding-right: 140px;
+text-align: right;
+text-shadow: 1px 1px 40px rgba(237, 237, 237, 0.6);}
+
+
+h2 {font-size: 20pt;
+font-family: Verdana;
+color: #CC0018;
+text-align: right;
+padding-right: 90px;}
+
+h3 {font-size: 11pt;
+    font-family: Verdana;
+    color: #c67b09;
+    text-align: right;
+    padding-right: 170px;}
+
+ul {list-style: none;}
+
+.nav1 {float: right;
+width: 140px;
+height: 35px;
+background-color:rgba(255, 255, 255, 0.166);
+border-radius: 10px;
+font-size: 18pt;
+font-family: Verdana;
+color: #a56606;
+padding: 7px;
+text-align: center;
+margin-right: 80px;
+-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-ms-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+transition: all 0.5s ease;}
+
+.nav1:hover {float: right;
+width: 140px;
+height: 35px;
+background-color:rgba(255, 255, 255, 0.6);
+border-radius: 10px;
+font-size: 18pt;
+font-family: Verdana;
+color: #a56606;
+padding: 7px;
+text-align: center;
+margin-right: 80px;}
+
+.nav2 {display: inline-block;
+width: 140px;
+height: 35px;
+background-color:rgba(255, 255, 255, 0.166);
+border-radius: 10px;
+font-size: 18pt;
+font-family: Verdana;
+color: #a56606;
+padding: 7px;
+text-align: center;
+margin-right: 10px;
+-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-ms-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+transition: all 0.5s ease;}
+
+.nav2:hover {display: inline-block;
+width: 140px;
+height: 35px;
+background-color:rgba(255, 255, 255, 0.6);
+border-radius: 10px;
+font-size: 18pt;
+font-family: Verdana;
+color: #a56606;
+padding: 7px;
+text-align: center;
+margin-right: 10px;}
+
+.nav3 {float: right;
+width: 140px;
+height: 35px;
+background-color:rgba(255, 255, 255, 0.166);
+border-radius: 10px;
+font-size: 18pt;
+font-family: Verdana;
+color: #a56606;
+padding: 7px;
+text-align: center;
+margin-right: 80px;
+margin-top: 12px;
+-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-ms-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+transition: all 0.5s ease;}
+
+.nav3:hover {float: right;
+width: 140px;
+height: 35px;
+background-color:rgba(255, 255, 255, 0.6);
+border-radius: 10px;
+font-size: 18pt;
+font-family: Verdana;
+color: #a56606;
+padding: 7px;
+text-align: center;
+margin-right: 80px;}
+
+.nav4 {display: inline-block;
+width: 140px;
+height: 35px;
+background-color:rgba(255, 255, 255, 0.166);
+border-radius: 10px;
+font-size: 18pt;
+font-family: Verdana;
+color: #a56606;
+padding: 7px;
+text-align: center;
+margin-right: 10px;
+margin-top: 12px;
+-webkit-transition: all 0.5s ease;
+-moz-transition: all 0.5s ease;
+-ms-transition: all 0.5s ease;
+-o-transition: all 0.5s ease;
+transition: all 0.5s ease;}
+
+.nav4:hover {display: inline-block;
+width: 140px;
+height: 35px;
+background-color:rgba(255, 255, 255, 0.6);
+border-radius: 10px;
+font-size: 18pt;
+font-family: Verdana;
+color: #a56606;
+padding: 7px;
+text-align: center;
+margin-right: 10px;}
+
+#gotit {
+background-color:rgba(255, 255, 255, 0.60);
+}
+
+#home {
+width: 250px;
+height: 50px;;
+margin-right: 85px;
+padding: 17px;
+margin-bottom: 50px;}
+
+#bio {color: antiquewhite;
+font-size: 20px;
+width: 250px;
+height: 50px;;
+margin-right: 85px;
+padding: 17px;
+margin-bottom: 50px;
+text-align: center;}
+
+#work {color: antiquewhite;
+font-size: 20px;
+width: 270px;
+height: 50px;;
+margin-right: 85px;
+padding: 17px;
+margin-bottom: 50px;
+text-align: center;}
+
+#school {color: antiquewhite;
+font-size: 20px;
+width: 250px;
+height: 50px;;
+margin-right: 85px;
+padding: 17px;
+margin-bottom: 50px;
+text-align: center;}
+
+#fun {color: antiquewhite;
+font-size: 20px;
+width: 250px;
+height: 50px;;
+margin-right: 85px;
+padding: 17px;
+margin-bottom: 50px;
+text-align: center;}
+
+
+#Facebook {display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: url(../images/facebook.png) no-repeat center;
+    background-size: 40px 40px;
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;}
+    
+#Facebook:hover {display: inline-block;
+    width: 60px;
+    height: 60px;
+    background: url(../images/facebook.png) no-repeat center;
+    background-size: 60px 60px;}
+
+
+#Instagram {display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: url(../images/instagram.png) no-repeat center;
+    background-size: 40px 40px;
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;}
+
+#Instagram:hover {display: inline-block;
+    width: 60px;
+    height: 60px;
+    background: url(../images/instagram.png) no-repeat center;
+    background-size: 60px 60px;}
+
+
+#Gmail {display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: url(../images/gmail.png) no-repeat center;
+    background-size: 40px 40px;
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;}
+
+#Gmail:hover {display: inline-block;
+    width: 60px;
+    height: 60px;
+    background: url(../images/gmail.png) no-repeat center;
+    background-size: 60px 60px;}
+
+
+#LinkedIn {display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: url(../images/linkedin.png) no-repeat center;
+    background-size: 40px 40px;
+    -webkit-transition: all 1s ease-in;
+    -moz-transition: all 1s ease-in;
+    -ms-transition: all 1s ease-in;
+    -o-transition: all 1s ease-in;
+    transition: all 1s ease-in;}
+
+#LinkedIn:hover {display: inline-block;
+    width: 60px;
+    height: 60px;
+    background: url(../images/linkedin.png) no-repeat center;
+    background-size: 60px 60px;}
+
+a:link {text-decoration: none;}
+
+#kesher {margin-right: 20px;
+padding: 10px 127px;
+padding-bottom: 110px;}
