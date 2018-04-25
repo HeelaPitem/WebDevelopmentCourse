@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+
 #home { background-image:
     linear-gradient(to right, RGB(0, 0, 0), RGB(0, 0, 0)), 
     linear-gradient(to right, RGB(110, 175, 233), RGB(110, 175, 233));
@@ -11,7 +13,6 @@
         background-repeat:no-repeat;
         background-size: 100% 110px, 100% 30px;
 }
-@import url('https://fonts.googleapis.com/css?family=Gugi');
 
 body {direction: ltr;
     background-image:
